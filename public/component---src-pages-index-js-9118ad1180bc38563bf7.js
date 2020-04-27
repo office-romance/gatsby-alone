@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),s=t("yBb5"),l=t("vrFN");t("+m2t");function o(){return r.a.createElement("p",{className:"intro"},"This is a small web shop, we sell things we make for ourselves. You can buy what we have MADE, or you can show interest by funding what we're MAKING.")}n.default=function(){return r.a.createElement(s.a,null,r.a.createElement(o,null),r.a.createElement(l.a,{title:"Home"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9118ad1180bc38563bf7.js.map
